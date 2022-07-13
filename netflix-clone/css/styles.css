@@ -100,3 +100,12 @@ h3,
 p {
   margin-bottom: 30px;
 }
+
+a{
+  text-decoration: none;
+  color: white  ;
+}
+
+a:hover{
+  color: gray;
+}
